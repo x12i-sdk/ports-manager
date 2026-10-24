@@ -1,0 +1,22 @@
+{
+  "name": "ports-manager-usage",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Usage example for @x12i/ports-manager: resolve a local service port and reject a port outside its zone.",
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "start": "node src/index.mjs",
+    "check": "node --check src/index.mjs"
+  },
+  "dependencies": {
+    "@x12i/ports-manager": "1.0.9"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x12i-sdk/ports-manager.git"
+  },
+  "homepage": "https://www.npmjs.com/package/@x12i/ports-manager"
+}

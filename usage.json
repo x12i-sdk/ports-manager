@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/ports-manager",
+  "packageVersion": "1.0.9",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/ports-manager",
+  "usageRepository": "https://github.com/x12i-sdk/ports-manager",
+  "sourceRepository": null,
+  "sourceCommit": null,
+  "sourcePackageDirectory": null,
+  "example": {
+    "title": "Resolve a local service port and reject a port outside its zone",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:12:24.466960+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "e5a79326ff89d23a8f3f27f5dc339a20c50846fbaed9b4039e54656624329d90",
+    "manifestSha256": "3af1581aea8e7c271381b3c860be1364b3cbaff2256e507961e33f2f66544f55"
+  }
+}

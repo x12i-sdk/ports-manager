@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: x12i org local port map — zones per mono-repo, avoid lists, default port resolution.
-- A Ports integration needs to reuse the capabilities of @x12i/ports-manager inside a larger application.
+- Resolve a service's named local ports from its assigned zone.
+- Reject a configured port outside the zone before binding a server.
 
 ## Links
 
